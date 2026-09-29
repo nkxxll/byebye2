@@ -1,0 +1,4 @@
+module ByebyeCore {
+    header "../core.h"
+    export *
+}

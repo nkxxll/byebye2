@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Byebye
+Comment=Session and power menu
+Exec=byebye
+Icon=system-shutdown
+Terminal=false
+Categories=System;Utility;
+Keywords=shutdown;restart;suspend;lock;logout;hibernate;
+StartupWMClass=byebye
